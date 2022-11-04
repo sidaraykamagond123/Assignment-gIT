@@ -1,11 +1,2 @@
-
-<<<<<<< HEAD
-
-CT ID 14995 
-=======
-HI This is pramod
-CT ID 14969 and 14995
-
->>>>>>> pramod
-
-
+HI This is Sandesh 
+CT ID 14962
